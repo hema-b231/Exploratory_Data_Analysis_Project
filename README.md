@@ -1,4 +1,4 @@
-# Data-Analysis-Project
+# Exploratory_Data_Analysis_Project
 
 📊 IBM Watson Employee Dataset – EDA Project (SDG Goal 8)
 
